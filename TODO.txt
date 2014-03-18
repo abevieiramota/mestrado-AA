@@ -1,0 +1,4 @@
+* - melhorar a adição de coluna dos termos independentes
+* - unificar os métodos de map_feature
+* - unificar os métodos de cálculo da função logística
+* - 
