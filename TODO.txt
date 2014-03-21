@@ -1,4 +1,3 @@
-* - melhorar a adição de coluna dos termos independentes
 * - unificar os métodos de map_feature
 * - unificar os métodos de cálculo da função logística
 * - utilizar zeros_like pra criar array de zeros com shape igual ao doutro array
