@@ -1,4 +1,8 @@
 * - melhorar a adição de coluna dos termos independentes
 * - unificar os métodos de map_feature
 * - unificar os métodos de cálculo da função logística
+* - utilizar zeros_like pra criar array de zeros com shape igual ao doutro array
+* - utilizar np.arange(n) no lugar de range(n)
+* - para criar um array copiando os dados, usar np.array(old_array)
+* - usar argmin e argmax para descobrir os indices do min e max
 * - 
